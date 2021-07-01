@@ -1,22 +1,60 @@
-7/1/2021 12:07:19 PM --- resetControls triggered
-7/1/2021 12:07:19 PM --- Login controls visible
-7/1/2021 12:07:19 PM --- Focus changed to Program started
-7/1/2021 12:07:19 PM --- Program started
-7/1/2021 12:07:26 PM --- enter key detected in tbUserName
-7/1/2021 12:07:29 PM --- Login button clicked
-7/1/2021 12:07:29 PM --- resetControls triggered
-7/1/2021 12:07:29 PM --- SELECT * FROM `tblCustomer` sql run
-7/1/2021 12:07:32 PM --- Focus changed to view customers
-7/1/2021 12:07:32 PM --- Login success for user admin
-7/1/2021 12:07:32 PM --- enter key detected in tbUserPass
-7/1/2021 12:16:08 PM --- resetControls triggered
-7/1/2021 12:16:08 PM --- SELECT * FROM `tblCustomer` sql run
-7/1/2021 12:16:10 PM --- Focus changed to view customers
-7/1/2021 12:16:13 PM --- resetControls triggered
-7/1/2021 12:16:13 PM --- Focus changed to create customer
-7/1/2021 12:16:13 PM --- create customer request
-7/1/2021 12:18:05 PM --- insert new customer
-7/1/2021 12:18:05 PM --- resetControls triggered
-7/1/2021 12:18:06 PM --- SELECT * FROM `tblCustomer` sql run
-7/1/2021 12:18:06 PM --- Focus changed to view customers
-7/1/2021 12:18:31 PM --- 7
+7/1/2021 6:17:03 PM --- resetControls triggered
+7/1/2021 6:17:03 PM --- Login controls visible
+7/1/2021 6:17:03 PM --- Focus changed to Program started
+7/1/2021 6:17:03 PM --- Program started
+7/1/2021 6:17:16 PM --- Login button clicked
+7/1/2021 6:17:16 PM --- resetControls triggered
+7/1/2021 6:17:16 PM --- SELECT * FROM `tblCustomer` sql run
+7/1/2021 6:17:19 PM --- Focus changed to view customers
+7/1/2021 6:17:19 PM --- Login success for user admin
+7/1/2021 6:17:19 PM --- enter key detected in tbUserPass
+7/1/2021 6:17:24 PM --- resetControls triggered
+7/1/2021 6:17:24 PM --- SELECT * FROM `tblCustomer` sql run
+7/1/2021 6:17:24 PM --- Focus changed to view customers
+7/1/2021 6:17:24 PM --- show customers
+7/1/2021 6:17:35 PM --- 8
+7/1/2021 6:17:36 PM --- resetControls triggered
+7/1/2021 6:17:36 PM --- Focus changed to edit customer
+7/1/2021 6:17:45 PM --- update customer
+7/1/2021 6:17:48 PM --- resetControls triggered
+7/1/2021 6:17:48 PM --- SELECT * FROM `tblCustomer` sql run
+7/1/2021 6:17:49 PM --- Focus changed to view customers
+7/1/2021 6:17:53 PM --- resetControls triggered
+7/1/2021 6:17:53 PM --- Focus changed to create customer
+7/1/2021 6:17:53 PM --- create customer request
+7/1/2021 6:21:26 PM --- insert new customer
+7/1/2021 6:21:26 PM --- resetControls triggered
+7/1/2021 6:21:26 PM --- SELECT * FROM `tblCustomer` sql run
+7/1/2021 6:21:27 PM --- Focus changed to view customers
+7/1/2021 6:21:38 PM --- resetControls triggered
+7/1/2021 6:21:38 PM --- SELECT * FROM `tblBookings` WHERE `bookingDateTime` >= CURDATE() sql run
+7/1/2021 6:21:38 PM --- Focus changed to landing
+7/1/2021 6:21:38 PM --- show bookings
+7/1/2021 6:21:43 PM --- resetControls triggered
+7/1/2021 6:21:43 PM --- Focus changed to Book Room
+7/1/2021 6:21:43 PM --- book room request
+7/1/2021 6:21:45 PM --- resetControls triggered
+7/1/2021 6:21:45 PM --- resetControls default case triggered, no controls visible
+7/1/2021 6:21:45 PM --- Focus changed to 
+7/1/2021 6:21:45 PM --- room a clicked
+7/1/2021 6:22:52 PM --- resetControls triggered
+7/1/2021 6:22:52 PM --- Focus changed to Book Room
+7/1/2021 6:22:52 PM --- book room request
+7/1/2021 6:23:01 PM --- resetControls triggered
+7/1/2021 6:23:01 PM --- resetControls default case triggered, no controls visible
+7/1/2021 6:23:01 PM --- Focus changed to 
+7/1/2021 6:23:01 PM --- room b clicked
+7/1/2021 6:23:21 PM --- resetControls triggered
+7/1/2021 6:23:21 PM --- Focus changed to Book Room
+7/1/2021 6:23:21 PM --- book room request
+7/1/2021 6:23:29 PM --- resetControls triggered
+7/1/2021 6:23:29 PM --- resetControls default case triggered, no controls visible
+7/1/2021 6:23:29 PM --- Focus changed to 
+7/1/2021 6:23:29 PM --- room a clicked
+7/1/2021 6:23:42 PM --- resetControls triggered
+7/1/2021 6:23:42 PM --- SELECT * FROM `tblBookings` WHERE `bookingDateTime` >= CURDATE() sql run
+7/1/2021 6:23:50 PM --- resetControls triggered
+7/1/2021 6:23:50 PM --- Focus changed to create customer
+7/1/2021 6:23:50 PM --- create customer request
+7/1/2021 6:23:53 PM --- resetControls triggered
+7/1/2021 6:23:53 PM --- SELECT * FROM `tblCustomer` sql run
