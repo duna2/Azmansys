@@ -40,7 +40,7 @@ namespace CUESYSv._01
         {
             try
             {
-                mysqlConn.varConfigServer = "ac8453.cucstudents.org";
+                mysqlConn.varConfigServer = "duken2.cucstudents.org";
                 mysqlConn.varConfigDatabase = "BtBooking";
                 mysqlConn.varConfigUser = "BtBooking";
                 mysqlConn.varConfigPass = "Password123!";
