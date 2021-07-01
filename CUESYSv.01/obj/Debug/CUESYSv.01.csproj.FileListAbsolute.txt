@@ -103,3 +103,8 @@ C:\Users\Owner\source\repos\Azmansys\Azmansys2\CUESYSv.01\obj\Debug\CUESYSv.01.c
 C:\Users\Owner\source\repos\Azmansys\Azmansys2\CUESYSv.01\obj\Debug\CUESYSv.01.csproj.CopyComplete
 C:\Users\Owner\source\repos\Azmansys\Azmansys2\CUESYSv.01\obj\Debug\CUESYSv.01.exe
 C:\Users\Owner\source\repos\Azmansys\Azmansys2\CUESYSv.01\obj\Debug\CUESYSv.01.pdb
+C:\Users\Owner\source\repos\Azmansys\Azmansys2\CUESYSv.01\bin\Debug\CUESYSv.01.exe.manifest
+C:\Users\Owner\source\repos\Azmansys\Azmansys2\CUESYSv.01\bin\Debug\CUESYSv.01.application
+C:\Users\Owner\source\repos\Azmansys\Azmansys2\CUESYSv.01\obj\Debug\CUESYSv.01.TrustInfo.xml
+C:\Users\Owner\source\repos\Azmansys\Azmansys2\CUESYSv.01\obj\Debug\CUESYSv.01.exe.manifest
+C:\Users\Owner\source\repos\Azmansys\Azmansys2\CUESYSv.01\obj\Debug\CUESYSv.01.application
