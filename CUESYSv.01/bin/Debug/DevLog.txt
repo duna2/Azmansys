@@ -1,34 +1,25 @@
-7/1/2021 4:25:28 AM --- resetControls triggered
-7/1/2021 4:25:28 AM --- Login controls visible
-7/1/2021 4:25:28 AM --- Focus changed to Program started
-7/1/2021 4:25:28 AM --- Program started
-7/1/2021 4:25:36 AM --- Login button clicked
-7/1/2021 4:25:36 AM --- resetControls triggered
-7/1/2021 4:25:36 AM --- SELECT * FROM `tblCustomer` sql run
-7/1/2021 4:25:38 AM --- Focus changed to view customers
-7/1/2021 4:25:38 AM --- Login success for user admin
-7/1/2021 4:25:49 AM --- 7
-7/1/2021 4:25:49 AM --- resetControls triggered
-7/1/2021 4:25:49 AM --- Focus changed to edit customer
-7/1/2021 4:25:53 AM --- update customer
-7/1/2021 4:25:56 AM --- resetControls triggered
-7/1/2021 4:25:56 AM --- SELECT * FROM `tblCustomer` sql run
-7/1/2021 4:25:56 AM --- Focus changed to view customers
-7/1/2021 4:26:04 AM --- resetControls triggered
-7/1/2021 4:26:04 AM --- SELECT * FROM `tblBookings` WHERE `bookingDateTime` >= CURDATE() sql run
-7/1/2021 4:26:04 AM --- Focus changed to landing
-7/1/2021 4:26:04 AM --- show bookings
-7/1/2021 4:26:09 AM --- resetControls triggered
-7/1/2021 4:26:09 AM --- SELECT * FROM `tblflights` sql run
-7/1/2021 4:26:10 AM --- Focus changed to view flights
-7/1/2021 4:26:10 AM --- show bookings
-7/1/2021 4:26:16 AM --- resetControls triggered
-7/1/2021 4:26:16 AM --- SELECT * FROM `tblflights` sql run
-7/1/2021 4:26:17 AM --- Focus changed to view flights
-7/1/2021 4:26:17 AM --- show bookings
-7/1/2021 4:26:19 AM --- resetControls triggered
-7/1/2021 4:26:19 AM --- Focus changed to search flight
-7/1/2021 4:26:25 AM --- resetControls triggered
-7/1/2021 4:26:25 AM --- SELECT * FROM `tblflights` WHERE custContact LIKE "Igando" OR airLine LIKE "Igando" OR flightNumber LIKE "Igando" OR seatNumber LIKE "Igando" OR flightOrigin LIKE "Igando" OR flightDestination LIKE "Igando"
-7/1/2021 4:26:25 AM --- SELECT * FROM `tblflights` WHERE custContact LIKE "Igando" OR airLine LIKE "Igando" OR flightNumber LIKE "Igando" OR seatNumber LIKE "Igando" OR flightOrigin LIKE "Igando" OR flightDestination LIKE "Igando" sql run
-7/1/2021 4:26:25 AM --- Focus changed to search flight query
+7/1/2021 10:10:09 AM --- resetControls triggered
+7/1/2021 10:10:09 AM --- Login controls visible
+7/1/2021 10:10:09 AM --- Focus changed to Program started
+7/1/2021 10:10:09 AM --- Program started
+7/1/2021 10:10:18 AM --- resetControls triggered
+7/1/2021 10:10:18 AM --- Focus changed to book flight
+7/1/2021 10:10:18 AM --- book flight request
+7/1/2021 10:10:26 AM --- resetControls triggered
+7/1/2021 10:10:26 AM --- Focus changed to create customer
+7/1/2021 10:10:26 AM --- create customer request
+7/1/2021 10:10:30 AM --- resetControls triggered
+7/1/2021 10:10:30 AM --- SELECT * FROM `tblCustomer` sql run
+7/1/2021 10:10:38 AM --- Focus changed to view customers
+7/1/2021 10:10:38 AM --- show customers
+7/1/2021 10:10:50 AM --- resetControls triggered
+7/1/2021 10:10:50 AM --- Focus changed to Book Room
+7/1/2021 10:10:50 AM --- book room request
+7/1/2021 10:10:57 AM --- resetControls triggered
+7/1/2021 10:10:57 AM --- resetControls default case triggered, no controls visible
+7/1/2021 10:10:57 AM --- Focus changed to 
+7/1/2021 10:10:57 AM --- room b clicked
+7/1/2021 10:11:08 AM --- resetControls triggered
+7/1/2021 10:11:08 AM --- SELECT * FROM `tblflights` sql run
+7/1/2021 10:11:08 AM --- Focus changed to view flights
+7/1/2021 10:11:08 AM --- show bookings
